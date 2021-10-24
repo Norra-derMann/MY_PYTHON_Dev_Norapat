@@ -33,3 +33,5 @@ with open(filename, 'w', newline='') as f:
         w.writerow(quote)
 
         #refernce tutorial : https://brightdata.com/blog/how-tos/how-to-use-beautiful-soup-for-web-scraping-with-python?cam=aw_blog_Beautiful-Soup-web-scraping_beautifulsoup%20python_520132069176&utm_term=beautifulsoup%20python&utm_campaign=blog&utm_source=adwords&utm_medium=ppc&utm_content=Beautiful-Soup-web-scraping&hsa_acc=1046276282&hsa_cam=13023430270&hsa_grp=124902841831&hsa_ad=520132069176&hsa_src=g&hsa_tgt=kwd-421857009773&hsa_kw=beautifulsoup%20python&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjwy42FBhB2EiwAJY0yQh8PTGbcD13M5_UchLwbqPw_4dhUFnBdHp_k2q8lWNUUvzkXHwk_yhoCwGMQAvD_BwE
+        
+        #reference 2
