@@ -10,3 +10,4 @@ url = 'https://th.wikipedia.org/wiki/รายชื่อเทศบาลต�
 
 #print(resp.status_code)
 
+#test Scraping data
